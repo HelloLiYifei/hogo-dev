@@ -2,14 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>https://HelloLiYifei.github.io/hugo-dev/zh-cn/sitemap.xml</loc>
+    <loc>http://localhost:1313/hugo-dev/zh-cn/sitemap.xml</loc>
     
       <lastmod>2025-02-22T18:04:23+08:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>https://HelloLiYifei.github.io/hugo-dev/en/sitemap.xml</loc>
+    <loc>http://localhost:1313/hugo-dev/en/sitemap.xml</loc>
     
       <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     
